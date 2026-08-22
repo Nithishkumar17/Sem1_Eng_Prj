@@ -1,8 +1,7 @@
 # Cantilever Characterisation using a Position Sensitive Detector
  
 Final project report — School of Electrical Engineering & Computer Science, Hochschule Bremen (HSB)
- 
-**Team:** Anveesha Arora, Donna Alex, Georgey Baby Valavathu, Nithish Kumar Baskaran, Nigill Jayaraman Kavitha, Nandini Mavillapalle, Nikhila Nallam
+
 **Supervisors:** Prof. Dr.-Ing. Friedrich Fleischmann, Prof. Dr. rer. nat. Ludger Kempen
  
 ## About
