@@ -11,7 +11,7 @@ This project measures the natural frequency, damping ratio, and quality factor o
  
 ## Full Report
  
-📄 [Read the full project report (PDF)](Final Report.pdf)
+📄 [Read the full project report (PDF)](Final%20Report.pdf)
  
 ## Contents
  
